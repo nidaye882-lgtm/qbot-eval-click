@@ -43,6 +43,8 @@ Hello, Click!
 Hello, Click!
 ```
 
+Run the example with `--help` to see its generated options.
+
 
 ## Donate
 
