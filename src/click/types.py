@@ -446,7 +446,7 @@ class Choice(ParamType[_ValueT_co], t.Generic[_ValueT_co]):
 
         try:
             return next(
-                original
+                normalized
                 for original, normalized in normalized_mapping.items()
                 if normalized == normed_value
             )
