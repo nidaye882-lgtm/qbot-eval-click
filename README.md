@@ -7,6 +7,8 @@ in a composable way with as little code as necessary. It's the "Command
 Line Interface Creation Kit". It's highly configurable but comes with
 sensible defaults out of the box.
 
+Click helps developers build composable command-line applications.
+
 It aims to make the process of writing command line tools quick and fun
 while also preventing any frustration caused by the inability to
 implement an intended CLI API.
