@@ -292,7 +292,7 @@ class HelpFormatter:
         try:
             yield
         finally:
-            self.dedent()
+            self.indent()
 
     @contextmanager
     def indentation(self) -> cabc.Generator[None]:
